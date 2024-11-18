@@ -1,2 +1,2 @@
-# codealpha__disease_prediction_from_medical_data
-Concentrated on building project with proper prediction analysis. Working good.
+# Task Disease prediction from Medical data
+Problem Statement: Create a model to predict the likelihood of a disease based on medical data (e.g., symptoms, patient history). Use datasets with labeled medical records and apply classification algorithms
